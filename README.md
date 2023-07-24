@@ -1,5 +1,9 @@
 # **VIRD: Immersive Match Video Analysis for High-Performance Badminton Coaching**
 
+> *Tica Lin, Alexandre Aouididi, Zhutian Chen, Johanna Beyer, Hanspeter Pfister, Jui-Hsien Wang*
+> *IEEE Transactions on Visualization and Computer Graphics (IEEE VIS), 2023*
+> [ [Paper]() | [Video]() ]
+
 The Immersive Badminton Video Analysis VR Prototype is a Unity-based project that enables users to analyze badminton matches in an interactive and immersive virtual reality environment. This repository contains front-end code of the VR interface to set up and run the project with a subset of match data for demo purpose. 
 People who wish to use this tool to analyze their own matches should prepare their data in the similar format.
 
@@ -8,10 +12,11 @@ People who wish to use this tool to analyze their own matches should prepare the
 </p>
 
 
+
 ## **Prerequisites**
 - Unity 2021.3.0 or later
 - Unity XR Plugin Management (Install via Unity Package Manager)
-- Compatible VR headset (e.g. Oculus Rift, HTC Vive)
+- Compatible VR headset (e.g. Oculus Quest 2, HTC Vive)
 
 ### **Steps**
 
@@ -120,3 +125,21 @@ Mode) or an entire rally (Game Mode), featuring synchronized video and **3D dyna
 `Shot.cs` - - control shot arcs drawn on Badminton court
 
 `Heatmap.cs` - - control heatmap visualization drawn on Badminton court
+
+## Citation
+
+```
+@CONFERENCE {lin2023vird,
+    title={VIRD: Immersive Match Video Analysis for High-Performance Badminton Coaching},
+    author={Tica Lin, Alexandre Aouididi, Zhutian Chen, Johanna Beyer, Hanspeter Pfister and Jui-Hsien Wang},
+    booktitle={IEEE Transactions on Visualization and Computer Graphics (IEEE VIS)},
+    year={2023},
+    month={Oct},
+    publisher={IEEE}
+}
+```
+## **Abstract**
+
+```
+Badminton is a fast-paced sport that requires a strategic combination of spatial, temporal, and technical tactics. To gain a competitive edge at high-level competitions, badminton professionals frequently analyze match videos to gain insights and develop game strategies. However, the current process for analyzing matches is time-consuming and relies heavily on manual note-taking, due to the lack of automatic data collection and appropriate visualization tools. As a result, there is a gap in effectively analyzing matches and communicating insights among badminton coaches and players. This work proposes an end-to-end immersive match analysis pipeline designed in close collaboration with badminton professionals, including Olympic and national coaches and players. We present VIRD, a VR Bird (i.e., shuttle) immersive analysis tool, that supports interactive badminton game analysis in an immersive environment based on 3D reconstructed game views of the match video. We propose a top-down analytic workflow that allows users to seamlessly move from a high-level match overview to a detailed game view of individual rallies and shots, using situated 3D visualizations and video. We collect 3D spatial and dynamic shot data and player poses with computer vision models and visualize them in VR. Through immersive visualizations, coaches can interactively analyze situated spatial data (player positions, poses, and shot trajectories) with flexible viewpoints while navigating between shots and rallies effectively with embodied interaction. We evaluated the usefulness of VIRD with Olympic and national-level coaches and players in real matches. Results show that immersive analytics supports effective badminton match analysis with reduced context-switching costs and enhances spatial understanding with a high sense of presence.
+```
