@@ -1,0 +1,128 @@
+{
+  "name": "1_05_03",
+  "shotCount": 7,
+  "duration": 6.3,
+  "playerServe": "top",
+  "playerWin": "top",
+  "shots": [
+    {
+      "index": 0,
+      "playerHit": "top",
+      "startPlayerPosition": [
+        3.751034339558153,
+        10.392849779186296,
+        0.0
+      ],
+      "endPlayerPosition": [
+        3.9524850788874955,
+        1.4990225187553332,
+        0.0
+      ],
+      "startTime": 0.5666666666666667,
+      "endTime": 1.8,
+      "tendency": "Defensive"
+    },
+    {
+      "index": 1,
+      "playerHit": "bottom",
+      "startPlayerPosition": [
+        3.9769752856839182,
+        1.4018529666520707,
+        0.0
+      ],
+      "endPlayerPosition": [
+        4.052706720257315,
+        10.287829071336546,
+        0.0
+      ],
+      "startTime": 1.8333333333333333,
+      "endTime": 2.5,
+      "tendency": "Defensive"
+    },
+    {
+      "index": 2,
+      "playerHit": "top",
+      "startPlayerPosition": [
+        4.072839067861573,
+        9.927997519449791,
+        0.0
+      ],
+      "endPlayerPosition": [
+        4.058785714388383,
+        2.3348920288808617,
+        0.0
+      ],
+      "startTime": 2.533333333333333,
+      "endTime": 3.433333333333333,
+      "tendency": "Defensive"
+    },
+    {
+      "index": 3,
+      "playerHit": "bottom",
+      "startPlayerPosition": [
+        4.147299479239609,
+        2.241172433580567,
+        0.0
+      ],
+      "endPlayerPosition": [
+        2.6512606646923094,
+        13.28358982719982,
+        0.0
+      ],
+      "startTime": 3.466666666666667,
+      "endTime": 4.3,
+      "tendency": "Defensive"
+    },
+    {
+      "index": 4,
+      "playerHit": "top",
+      "startPlayerPosition": [
+        2.582479498628975,
+        13.583698400541294,
+        0.0
+      ],
+      "endPlayerPosition": [
+        1.0444686770472185,
+        2.1350205803695284,
+        0.0
+      ],
+      "startTime": 4.333333333333333,
+      "endTime": 5.366666666666666,
+      "tendency": "Defensive"
+    },
+    {
+      "index": 5,
+      "playerHit": "bottom",
+      "startPlayerPosition": [
+        1.0295068146003439,
+        2.0495477213798363,
+        0.0
+      ],
+      "endPlayerPosition": [
+        1.440363429025998,
+        13.084553751167082,
+        0.0
+      ],
+      "startTime": 5.4,
+      "endTime": 6.833333333333333,
+      "tendency": "N/A"
+    },
+    {
+      "index": 6,
+      "playerHit": "top",
+      "startPlayerPosition": [
+        1.4424291067418726,
+        13.198436841124433,
+        0.0
+      ],
+      "endPlayerPosition": [
+        1.7483348947488362,
+        4.483686920636757,
+        0.0
+      ],
+      "startTime": 6.866666666666666,
+      "endTime": 7.2,
+      "tendency": "N/A"
+    }
+  ]
+}

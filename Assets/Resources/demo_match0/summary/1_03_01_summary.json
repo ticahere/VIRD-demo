@@ -1,0 +1,264 @@
+{
+  "name": "1_03_01",
+  "shotCount": 15,
+  "duration": 12.066666666666666,
+  "playerServe": "top",
+  "playerWin": "bottom",
+  "shots": [
+    {
+      "index": 0,
+      "playerHit": "top",
+      "startPlayerPosition": [
+        3.2306694314713824,
+        10.752955189931829,
+        0.0
+      ],
+      "endPlayerPosition": [
+        2.5577036663520727,
+        4.423652331510224,
+        0.0
+      ],
+      "startTime": 1.5333333333333334,
+      "endTime": 2.3,
+      "tendency": "Offensive"
+    },
+    {
+      "index": 1,
+      "playerHit": "bottom",
+      "startPlayerPosition": [
+        2.591068130606182,
+        4.414466073210936,
+        0.0
+      ],
+      "endPlayerPosition": [
+        2.4977283481125756,
+        9.948113535683843,
+        0.0
+      ],
+      "startTime": 2.3333333333333335,
+      "endTime": 3.1333333333333333,
+      "tendency": "Defensive"
+    },
+    {
+      "index": 2,
+      "playerHit": "top",
+      "startPlayerPosition": [
+        2.4360838242650624,
+        9.784804685324792,
+        0.0
+      ],
+      "endPlayerPosition": [
+        1.9100230745319506,
+        5.806573602072197,
+        0.0
+      ],
+      "startTime": 3.1666666666666665,
+      "endTime": 4.133333333333334,
+      "tendency": "Offensive"
+    },
+    {
+      "index": 3,
+      "playerHit": "bottom",
+      "startPlayerPosition": [
+        1.9011370426945227,
+        5.760344211909588,
+        0.0
+      ],
+      "endPlayerPosition": [
+        3.2423931367117,
+        13.472481921276241,
+        0.0
+      ],
+      "startTime": 4.166666666666667,
+      "endTime": 6.266666666666667,
+      "tendency": "N/A"
+    },
+    {
+      "index": 4,
+      "playerHit": "top",
+      "startPlayerPosition": [
+        3.241625989661746,
+        13.47380626727106,
+        0.0
+      ],
+      "endPlayerPosition": [
+        3.114452655293267,
+        3.197482106887366,
+        0.0
+      ],
+      "startTime": 6.3,
+      "endTime": 6.766666666666667,
+      "tendency": "Defensive"
+    },
+    {
+      "index": 5,
+      "playerHit": "bottom",
+      "startPlayerPosition": [
+        3.0820194390880378,
+        3.239191227714026,
+        0.0
+      ],
+      "endPlayerPosition": [
+        2.098935347589922,
+        10.589937580457878,
+        0.0
+      ],
+      "startTime": 6.8,
+      "endTime": 7.666666666666667,
+      "tendency": "Offensive"
+    },
+    {
+      "index": 6,
+      "playerHit": "top",
+      "startPlayerPosition": [
+        2.1043355465443776,
+        10.614491186748435,
+        0.0
+      ],
+      "endPlayerPosition": [
+        2.27212583545289,
+        3.0663989609318425,
+        0.0
+      ],
+      "startTime": 7.7,
+      "endTime": 8.166666666666666,
+      "tendency": "Defensive"
+    },
+    {
+      "index": 7,
+      "playerHit": "bottom",
+      "startPlayerPosition": [
+        2.164217115248406,
+        3.139648645535545,
+        0.0
+      ],
+      "endPlayerPosition": [
+        2.3884346139850834,
+        11.277625679974236,
+        0.0
+      ],
+      "startTime": 8.2,
+      "endTime": 8.666666666666666,
+      "tendency": "Offensive"
+    },
+    {
+      "index": 8,
+      "playerHit": "top",
+      "startPlayerPosition": [
+        2.3892326874147267,
+        11.24927292725547,
+        0.0
+      ],
+      "endPlayerPosition": [
+        2.693282916156448,
+        2.3634984819467393,
+        0.0
+      ],
+      "startTime": 8.7,
+      "endTime": 9.766666666666667,
+      "tendency": "Defensive"
+    },
+    {
+      "index": 9,
+      "playerHit": "bottom",
+      "startPlayerPosition": [
+        2.7785504769179905,
+        2.1704795153634406,
+        0.0
+      ],
+      "endPlayerPosition": [
+        2.6884974059862627,
+        11.252456063822647,
+        0.0
+      ],
+      "startTime": 9.8,
+      "endTime": 10.5,
+      "tendency": "Offensive"
+    },
+    {
+      "index": 10,
+      "playerHit": "top",
+      "startPlayerPosition": [
+        2.672119822655899,
+        11.201632200704827,
+        0.0
+      ],
+      "endPlayerPosition": [
+        2.4414065768809965,
+        4.469776438839302,
+        0.0
+      ],
+      "startTime": 10.533333333333333,
+      "endTime": 11.166666666666666,
+      "tendency": "Defensive"
+    },
+    {
+      "index": 11,
+      "playerHit": "bottom",
+      "startPlayerPosition": [
+        2.400807158549365,
+        4.305084627306878,
+        0.0
+      ],
+      "endPlayerPosition": [
+        3.6008029709532305,
+        9.785544217729658,
+        0.0
+      ],
+      "startTime": 11.2,
+      "endTime": 12.2,
+      "tendency": "Offensive"
+    },
+    {
+      "index": 12,
+      "playerHit": "top",
+      "startPlayerPosition": [
+        3.655622922816199,
+        9.730007028659431,
+        0.0
+      ],
+      "endPlayerPosition": [
+        2.3677320744491572,
+        3.345207269464956,
+        0.0
+      ],
+      "startTime": 12.233333333333333,
+      "endTime": 13.066666666666666,
+      "tendency": "Defensive"
+    },
+    {
+      "index": 13,
+      "playerHit": "bottom",
+      "startPlayerPosition": [
+        2.367815318431772,
+        3.3450721207182035,
+        0.0
+      ],
+      "endPlayerPosition": [
+        2.437884469357674,
+        11.26348942925187,
+        0.0
+      ],
+      "startTime": 13.1,
+      "endTime": 13.566666666666666,
+      "tendency": "Offensive"
+    },
+    {
+      "index": 14,
+      "playerHit": "top",
+      "startPlayerPosition": [
+        2.34898485635902,
+        11.385904507597283,
+        0.0
+      ],
+      "endPlayerPosition": [
+        1.3105639148151802,
+        4.391875729327908,
+        0.0
+      ],
+      "startTime": 13.6,
+      "endTime": 14.733333333333333,
+      "tendency": "N/A"
+    }
+  ]
+}

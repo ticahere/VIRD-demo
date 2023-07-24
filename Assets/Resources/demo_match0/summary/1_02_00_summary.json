@@ -1,0 +1,60 @@
+{
+  "name": "1_02_00",
+  "shotCount": 3,
+  "duration": 2.4,
+  "playerServe": "top",
+  "playerWin": "top",
+  "shots": [
+    {
+      "index": 0,
+      "playerHit": "top",
+      "startPlayerPosition": [
+        3.2241090417565896,
+        10.770493313759568,
+        0.0
+      ],
+      "endPlayerPosition": [
+        2.0988296322084112,
+        3.1846358775026067,
+        0.0
+      ],
+      "startTime": 1.3333333333333333,
+      "endTime": 2.3,
+      "tendency": "Defensive"
+    },
+    {
+      "index": 1,
+      "playerHit": "bottom",
+      "startPlayerPosition": [
+        2.1237125826656578,
+        3.2319514439512727,
+        0.0
+      ],
+      "endPlayerPosition": [
+        0.9919986040238349,
+        13.389278093203535,
+        0.0
+      ],
+      "startTime": 2.3333333333333335,
+      "endTime": 3.7,
+      "tendency": "Defensive"
+    },
+    {
+      "index": 2,
+      "playerHit": "top",
+      "startPlayerPosition": [
+        0.9448701087155178,
+        13.384470983596232,
+        0.0
+      ],
+      "endPlayerPosition": [
+        2.707835627483959,
+        3.0283711898013506,
+        0.0
+      ],
+      "startTime": 3.7333333333333334,
+      "endTime": 5.266666666666667,
+      "tendency": "N/A"
+    }
+  ]
+}
