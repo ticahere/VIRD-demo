@@ -129,7 +129,7 @@ Mode) or an entire rally (Game Mode), featuring synchronized video and **3D dyna
 ## Citation
 
 ```
-@CONFERENCE {lin2023vird,
+@ARTICLE {lin2023vird,
     title={VIRD: Immersive Match Video Analysis for High-Performance Badminton Coaching},
     author={Tica Lin, Alexandre Aouididi, Zhutian Chen, Johanna Beyer, Hanspeter Pfister and Jui-Hsien Wang},
     booktitle={IEEE Transactions on Visualization and Computer Graphics (IEEE VIS)},
