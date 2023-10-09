@@ -1,6 +1,6 @@
 # **VIRD: Immersive Match Video Analysis for High-Performance Badminton Coaching**
 
-> *Tica Lin, Alexandre Aouididi, Zhutian Chen, Johanna Beyer, Hanspeter Pfister, Jui-Hsien Wang.*
+> *Tica Lin, Alexandre Aouididi, Chen Zhu-Tian, Johanna Beyer, Hanspeter Pfister, Jui-Hsien Wang.*
 > *IEEE Transactions on Visualization and Computer Graphics (IEEE VIS), 2023*
 > [ [Paper](https://arxiv.org/pdf/2307.12539.pdf) | [Video]() ]
 
@@ -131,7 +131,7 @@ Mode) or an entire rally (Game Mode), featuring synchronized video and **3D dyna
 ```
 @ARTICLE {lin2023vird,
     title={VIRD: Immersive Match Video Analysis for High-Performance Badminton Coaching},
-    author={Tica Lin, Alexandre Aouididi, Zhutian Chen, Johanna Beyer, Hanspeter Pfister and Jui-Hsien Wang},
+    author={Tica Lin, Alexandre Aouididi, Chen Zhu-Tian, Johanna Beyer, Hanspeter Pfister and Jui-Hsien Wang},
     booktitle={IEEE Transactions on Visualization and Computer Graphics (IEEE VIS)},
     year={2023},
     month={Oct},
