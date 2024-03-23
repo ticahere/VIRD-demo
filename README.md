@@ -2,7 +2,7 @@
 
 > *Tica Lin, Alexandre Aouididi, Chen Zhu-Tian, Johanna Beyer, Hanspeter Pfister, Jui-Hsien Wang.*
 > *IEEE Transactions on Visualization and Computer Graphics (IEEE VIS), 2023*  
-> [ [Paper](https://vcg.seas.harvard.edu/content/3-publications/20231023-vird-immersive-match-video-analysis/_2023_vis__vird___camera_ready.pdf?1696650537) | [Video]() ]
+> [ [Paper](https://vcg.seas.harvard.edu/content/3-publications/20231023-vird-immersive-match-video-analysis/_2023_vis__vird___camera_ready.pdf?1696650537) | [Video](https://youtu.be/wzyiwBqki_o) ]
 
 The Immersive Badminton Video Analysis VR Prototype is a Unity-based project that enables users to analyze badminton matches in an interactive and immersive virtual reality environment. This repository contains front-end code of the VR interface to set up and run the project with a subset of match data for demo purpose. 
 People who wish to use this tool to analyze their own matches should prepare their data in the similar format.
